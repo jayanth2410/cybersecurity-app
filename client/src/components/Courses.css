@@ -1,0 +1,12 @@
+/* client/src/App.css */  
+.app {
+    display: flex;
+    height: 100vh;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .app {
+      flex-direction: column;
+    }
+  }
+  

@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531689"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Computer Fundamentals",
+  "name": "1. Introduction to Computer Fundamentals",
+  "introduction": "### 1. **Introduction to Computer Fundamentals**\n\n#### 1.1 **Definition and Importance of Computers**\n\n---\n\n#### **Definition of a Computer**\n\nA computer is an electronic device that processes data and performs a variety of tasks according to a set of instructions called programs. Computers can execute arithmetic and logical operations, store and retrieve data, and communicate with other devices. \n\n**Key Characteristics:**\n- **Speed**: Computers can process data at incredibly high speeds, performing millions or even billions of calculations per second.\n\n- **Accuracy**: When programmed correctly, computers perform tasks with high precision and minimal error.\n\n- **Automation**: Computers can automatically perform tasks once programmed, reducing the need for human intervention.\n\n- **Storage**: Computers can store vast amounts of data in a variety of formats, which can be retrieved and processed as needed.\n\n- **Versatility**: Computers can be used in a wide range of applications, from word processing to complex scientific simulations.\n\n#### **Importance of Computers in Modern Life**\nComputers have become an integral part of modern society, affecting nearly every aspect of daily life. Here’s why they are so important:\n\n1. **Communication**: Computers enable instant communication through email, messaging apps, and video conferencing, connecting people worldwide.\n\n2. **Education**: They are essential tools in education, providing access to information, online courses, and interactive learning platforms.\n\n3. **Business**: Computers streamline operations, enhance productivity, manage data, and support decision-making processes in businesses.\n\n4. **Healthcare**: In healthcare, computers are used for patient records management, diagnostic tools, and research in medical advancements.\n\n5. **Entertainment**: Computers power the entertainment industry, from video games to streaming services and digital content creation.\n\n6. **Research and Development**: In science and technology, computers perform complex simulations, data analysis, and modeling.\n\n7. **Financial Services**: Computers handle transactions, manage accounts, and perform real-time processing in banking and finance.\n\n#### **Key Concepts: Hardware, Software, and Firmware**\n\n---\n\n#### **1. Hardware**\n\nHardware refers to the physical components of a computer system. These are the tangible parts that you can touch and see. \n\n**Categories of Hardware:**\n- **Input Devices**: Tools used to input data into a computer (e.g., keyboard, mouse, scanner).\n\n- **Output Devices**: Devices that output data from a computer (e.g., monitor, printer, speakers).\n\n- **Storage Devices**: Hardware that stores data (e.g., hard drives, SSDs, USB flash drives).\n\n- **Processing Units**: The Central Processing Unit (CPU) and Graphics Processing Unit (GPU) that perform the computations.\n\n- **Motherboard**: The main circuit board that connects all components of the computer.\n\n- **Peripheral Devices**: Additional devices like printers, webcams, and external drives that connect to the computer.\n\n#### **2. Software**\n\nSoftware is a set of instructions that tells the hardware what to do. It’s the non-tangible part of a computer system that enables it to perform specific tasks.\n\n**Types of Software:**\n- **System Software**: Includes operating systems (like Windows, macOS, Linux) that manage the hardware and software resources of the computer.\n\n- **Application Software**: Programs designed to perform specific tasks for the user, such as word processors (Microsoft Word), web browsers (Google Chrome), and games.\n\n- **Utility Software**: Tools that help maintain, analyze, and optimize the performance of a computer (e.g., antivirus software, disk management tools).\n\n#### **3. Firmware**\n\nFirmware is a specialized type of software that is embedded directly into the hardware of a device. Unlike regular software, which can be easily modified or removed, firmware is usually stored on non-volatile memory chips like ROM (Read-Only Memory) and is not intended to be frequently changed.\n\n**Roles of Firmware:**\n- **Device Initialization**: Firmware controls the initial startup process of the hardware when the device is powered on.\n\n- **Hardware Control**: It manages the basic operations of hardware components, such as a computer’s BIOS (Basic Input/Output System), which controls the system's boot process.\n\n- **System Security**: Firmware can play a critical role in securing a system by controlling access to hardware resources and enforcing security policies at a low level.\n\n**Importance of Firmware:**\n- Firmware ensures that hardware components operate correctly and consistently with the intended design.\n\n- It provides a foundational layer for higher-level software to interact with the hardware.\n\n- Updating firmware can fix bugs, improve performance, and add new features to devices, although this process is usually done with caution to avoid bricking the device.\n\n---\n\n",
+  "videoLink": "https://www.youtube.com/embed/qfUZBKDh9BY?si=CSpSQAgoo3NPN5rR",
+  "referenceLink": "https://en.wikipedia.org/wiki/History_of_computing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168a"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Computer Fundamentals",
+  "name": "2. Evolution of Computers",
+  "introduction": "### 2. **Evolution of Computers**\n\n### 2.1 **Early Computational Devices**\n\nThe evolution of computers spans several centuries, beginning with simple mechanical devices and culminating in the complex, powerful machines we use today. Let’s explore some key milestones in this journey.\n\n---\n\n#### **Abacus and Mechanical Calculators**\n\n**Abacus:**\n- **Introduction**: The abacus is one of the earliest known tools used for calculation, dating back to around 2000 BCE in ancient Sumeria and China. It is a simple, manual device consisting of beads that slide along rods, where each bead represents a specific numerical value.\n\n- **Functionality**: The abacus is primarily used for basic arithmetic operations like addition, subtraction, multiplication, and division. Users manipulate the beads with their fingers to perform calculations.\n\n- **Significance**: The abacus was an essential tool for merchants and traders in ancient times and laid the groundwork for more advanced calculating devices. It is still in use today in some parts of the world as an educational tool.\n\n**Mechanical Calculators:**\n- **Development**: The need for more complex calculations led to the invention of mechanical calculators. These devices, developed in the 17th and 18th centuries, used gears, levers, and other mechanical components to perform arithmetic operations.\n\n- **Notable Examples**:\n  - **Pascaline**: Invented by Blaise Pascal in 1642, the Pascaline was one of the first mechanical calculators capable of performing addition and subtraction directly.\n  - **Leibniz Wheel**: Invented by Gottfried Wilhelm Leibniz in 1673, this device improved upon Pascal’s design by enabling multiplication and division.\n\n- **Impact**: Mechanical calculators were widely used in businesses and scientific research, making calculations faster and reducing the risk of human error. They marked a significant step toward automation in computation.\n\n#### **Charles Babbage's Analytical Engine**\n\n**Introduction**:\n- **Charles Babbage**: Often referred to as the \"father of the computer,\" Charles Babbage was an English mathematician, philosopher, and inventor who designed the Analytical Engine in the early 19th century.\n\n**The Analytical Engine**:\n- **Concept**: The Analytical Engine, conceived in 1837, was the first design for a general-purpose mechanical computer. Although never completed during Babbage's lifetime, the design laid the foundation for modern computing.\n\n- **Components**:\n  - **The Mill**: Functioned as the CPU (central processing unit) where arithmetic operations were performed.\n\n  - **The Store**: Served as memory, where numbers and intermediate results were stored.\n\n  - **The Input/Output**: The machine used punched cards for inputting data and instructions, as well as for outputting results.\n\n- **Programmability**: The Analytical Engine was the first machine designed to be programmable, meaning it could follow a sequence of instructions (a program) to perform calculations. Ada Lovelace, a mathematician who worked with Babbage, is often credited with writing the first algorithm intended for implementation on this machine, making her the first computer programmer.\n\n- **Legacy**: Although the Analytical Engine was never built, its design incorporated many concepts that are fundamental to modern computers, such as the idea of separating memory from processing.\n\n#### **Herman Hollerith and the Punch Card System**\n\n**Introduction**:\n- **Herman Hollerith**: An American statistician and inventor, Hollerith revolutionized data processing with the invention of the punch card system, which significantly advanced the field of data tabulation.\n\n**Punch Card System**:\n- **Development**: Hollerith developed the punch card system in the late 19th century as a way to automate the tabulation of data for the 1890 U.S. Census. Before this innovation, census data was manually processed, a time-consuming and error-prone task.\n\n- **Mechanism**:\n  - **Punch Cards**: Data was encoded as a series of holes punched into cards, with each hole representing a specific piece of information.\n\n  - **Tabulating Machine**: The punch cards were then fed into a tabulating machine, which used electrical circuits to detect the holes and automatically tally the data.\n\n- **Impact**:\n  - **Efficiency**: The punch card system dramatically reduced the time required to process large datasets, completing the 1890 Census in just a few years rather than the decade it took for the previous census.\n\n  - **Commercial Success**: Hollerith's invention led to the formation of the Tabulating Machine Company, which eventually became IBM (International Business Machines), a cornerstone of the computing industry.\n\n  - **Legacy**: The punch card system remained a dominant method of data processing well into the mid-20th century and was a precursor to modern computing input/output systems.\n\n---\n\n### 2.2 **First Generation (1940s - 1950s)**\n\nThe first generation of computers marks the era when machines transitioned from mechanical components to electronic circuits, setting the stage for modern computing. This period, from the 1940s to the 1950s, saw the development of some of the earliest and most influential computers.\n\n---\n\n#### **ENIAC and UNIVAC**\n\n**ENIAC (Electronic Numerical Integrator and Computer):**\n- **Introduction**: Developed during World War II, the ENIAC was the first general-purpose electronic digital computer. It was designed by John Mauchly and J. Presper Eckert at the University of Pennsylvania and became operational in 1945.\n\n- **Specifications**:\n  - **Size**: ENIAC was enormous, occupying about 1,800 square feet and weighing nearly 30 tons.\n\n  - **Components**: It used approximately 18,000 vacuum tubes, 70,000 resistors, 10,000 capacitors, and 6,000 switches.\n\n  - **Performance**: ENIAC could perform 5,000 additions, 357 multiplications, or 38 divisions per second—a remarkable speed for its time.\n\n- **Functionality**:\n  - Initially, ENIAC was developed to calculate artillery firing tables for the U.S. Army.\n\n  - It was later used for various scientific calculations, such as simulations for nuclear weapons research and weather predictions.\n\n- **Significance**: ENIAC was a groundbreaking machine that demonstrated the feasibility of electronic computers for complex calculations, paving the way for future developments in computing technology.\n\n**UNIVAC (Universal Automatic Computer):**\n- **Introduction**: UNIVAC I, developed by the same team as ENIAC (Mauchly and Eckert), was the first commercially available computer and became operational in 1951. It marked the transition of computers from experimental models to practical business tools.\n\n- **Specifications**:\n  - **Size**: Although smaller than ENIAC, UNIVAC was still large by today's standards, occupying about 350 square feet.\n\n  - **Components**: UNIVAC I used 5,200 vacuum tubes and consumed about 125 kW of power.\n\n  - **Storage**: It introduced magnetic tape as a means of data storage, a significant improvement over the punch cards used in earlier machines.\n\n  - **Performance**: UNIVAC could process about 1,000 calculations per second, making it faster and more reliable than its predecessors.\n\n- **Functionality**:\n  - UNIVAC I was used for a variety of applications, including business data processing, census data, and scientific research.\n\n  - It gained fame for accurately predicting the outcome of the 1952 U.S. presidential election.\n\n- **Significance**: UNIVAC I demonstrated the commercial viability of computers, leading to widespread adoption by businesses and government agencies. It marked the beginning of the computer industry as we know it today.\n\n#### **Vacuum Tubes and Machine Language**\n\n**Vacuum Tubes**:\n- **Introduction**: Vacuum tubes were the primary technology used in first-generation computers. They acted as electronic switches, controlling the flow of electricity in circuits.\n\n- **Functionality**:\n  - **Switching**: Vacuum tubes could switch between on and off states, representing the binary digits (0 and 1) used in computing.\n\n  - **Amplification**: They also amplified electrical signals, which was essential for processing data in the early computers.\n\n- **Limitations**:\n  - **Size and Heat**: Vacuum tubes were large and generated a lot of heat, leading to significant cooling requirements and frequent failures.\n\n  - **Power Consumption**: They consumed a considerable amount of power, making first-generation computers inefficient by modern standards.\n\n  - **Reliability**: The tubes were prone to burning out, requiring constant maintenance and replacement.\n\n- **Significance**: Despite their limitations, vacuum tubes were a critical technology that enabled the development of electronic computers. Their use in machines like ENIAC and UNIVAC demonstrated the potential of electronic computing and laid the groundwork for future advancements.\n\n**Machine Language**:\n- **Introduction**: Machine language, also known as machine code, was the only programming language used in first-generation computers. It is the lowest-level programming language, consisting entirely of binary digits (0s and 1s).\n\n- **Functionality**:\n  - **Direct Control**: Machine language provides direct control over the hardware, with each instruction corresponding to a specific operation by the computer's CPU.\n\n  - **Instruction Set**: Each machine has its own set of machine language instructions, defined by its architecture. These instructions perform basic operations like arithmetic, data movement, and control flow.\n\n- **Challenges**:\n  - **Complexity**: Programming in machine language was extremely complex and error-prone, as it required the programmer to manage every detail of the computer's operation.\n\n  - **Lack of Portability**: Machine language programs were specific to the hardware they were written for, making it difficult to transfer software between different computers.\n\n- **Significance**: Machine language was the foundation of early computing. While challenging to work with, it provided the essential instructions that powered the first generation of computers. Over time, higher-level programming languages were developed to simplify the process of writing software.\n\n---\n\n\n\n### 2.3 **Second Generation (1950s - 1960s)**\n\n#### **Transition to Transistors**\n\n**Introduction**:\n- The second generation of computers marked a significant technological shift from vacuum tubes to transistors, which revolutionized the design and functionality of computers.\n\n**Transistors**:\n- **Invention**: Invented by John Bardeen, Walter Brattain, and William Shockley at Bell Labs in 1947, transistors became commercially viable in the 1950s.\n\n- **Functionality**: Transistors perform the same functions as vacuum tubes—switching and amplification of electrical signals—but in a much smaller, more reliable, and energy-efficient form.\n\n- **Advantages**:\n  - **Size and Power**: Transistors were much smaller and consumed less power, allowing computers to be more compact and less prone to overheating.\n\n  - **Reliability**: Transistors were more durable and reliable, reducing the frequency of failures and maintenance.\n\n  - **Speed**: They operated faster than vacuum tubes, improving the overall performance of computers.\n\n- **Impact**: The adoption of transistors led to smaller, faster, more efficient, and more reliable computers, which expanded the possibilities for their use in business, science, and government.\n\n#### **Assembly Language and High-Level Programming Languages (FORTRAN, COBOL)**\n\n**Assembly Language**:\n- **Introduction**: Assembly language is a low-level programming language that provides a more human-readable way to write machine language instructions. It uses symbolic names (mnemonics) for operations and memory addresses.\n\n- **Advantages**:\n  - **Easier Programming**: Compared to machine language, assembly language is easier to write and understand, though still complex and hardware-specific.\n\n  - **Control**: It offers greater control over hardware, making it suitable for tasks that require direct interaction with the computer's architecture.\n\n- **Usage**: Assembly language was widely used in the second generation of computers for system programming, including the development of operating systems and hardware drivers.\n\n**High-Level Programming Languages**:\n- **FORTRAN (Formula Translation)**:\n  - **Introduction**: Developed by IBM in the 1950s, FORTRAN was the first high-level programming language, designed specifically for scientific and engineering calculations.\n\n  - **Features**: FORTRAN introduced concepts like loops, conditionals, and subroutines, making programming more accessible and reducing the complexity of coding mathematical formulas.\n\n  - **Impact**: FORTRAN revolutionized scientific computing and remained a dominant language in these fields for decades.\n\n\n- **COBOL (Common Business-Oriented Language)**:\n  - **Introduction**: Developed in 1959, COBOL was designed for business data processing, focusing on readability and portability across different computer systems.\n  - **Features**: COBOL's syntax is designed to resemble English, making it easier for non-programmers to understand and manage business applications.\n  - **Impact**: COBOL became widely used in business, government, and financial sectors, and many legacy systems still use COBOL today.\n\n### 2.4 **Third Generation (1960s - 1970s)**\n\n#### **Integrated Circuits (ICs)**\n\n**Introduction**:\n- The third generation of computers saw the advent of integrated circuits (ICs), which further miniaturized and enhanced the performance of electronic components.\n\n**Integrated Circuits (ICs)**:\n- **Invention**: Jack Kilby at Texas Instruments and Robert Noyce at Fairchild Semiconductor independently developed ICs in the late 1950s and early 1960s.\n\n- **Functionality**: ICs are small chips that contain multiple transistors, resistors, and capacitors integrated into a single semiconductor substrate. They perform the same functions as larger circuits but in a much more compact form.\n\n- **Advantages**:\n  - **Miniaturization**: ICs drastically reduced the size of computers, allowing for more complex and powerful systems.\n\n  - **Speed**: They improved processing speed due to the reduced distances between components.\n\n  - **Reliability**: ICs were more reliable than discrete components and reduced the need for manual wiring, lowering the chances of error.\n\n- **Impact**: The use of ICs made computers more accessible and affordable, leading to their widespread adoption in various industries and paving the way for the development of microprocessors.\n\n#### **The Emergence of Operating Systems and the Concept of Time-Sharing**\n\n**Operating Systems (OS)**:\n- **Introduction**: As computers became more complex, the need for software to manage hardware resources and run multiple programs simultaneously led to the development of operating systems.\n\n- **Functionality**: Operating systems handle tasks such as memory management, process scheduling, input/output operations, and file management. Early operating systems were batch-processing systems that executed jobs sequentially.\n\n- **Impact**: The development of operating systems made computers more user-friendly and efficient, allowing multiple users to share the same machine.\n\n**Time-Sharing**:\n- **Introduction**: Time-sharing is a computing concept that allows multiple users to access a computer simultaneously by sharing its processing time. It was developed in the 1960s to make better use of expensive computing resources.\n\n- **Functionality**: In a time-sharing system, the CPU switches between multiple tasks so quickly that users perceive their programs as running simultaneously.\n\n- **Impact**: Time-sharing enabled the creation of interactive computing environments, such as early forms of personal computing and collaborative work.\n\n### 2.5 **Fourth Generation (1970s - Present)**\n\n#### **Microprocessors and the Development of Personal Computers**\n\n**Microprocessors**:\n- **Introduction**: The fourth generation of computers began with the invention of the microprocessor, a single integrated circuit that contains the CPU functions of a computer. Intel’s 4004, released in 1971, was the first commercially available microprocessor.\n\n- **Functionality**: Microprocessors integrate the CPU onto a single chip, greatly reducing the size and cost of computers while increasing their power and efficiency.\n\n- **Impact**: Microprocessors led to the development of personal computers (PCs), making computing accessible to individuals and small businesses.\n\n**Development of Personal Computers**:\n- **Key Milestones**:\n  - **Altair 8800**: Released in 1975, the Altair 8800 is often credited as the first personal computer, sparking the home computer revolution.\n\n  - **Apple II**: Launched in 1977, the Apple II became one of the first widely successful personal computers, known for its user-friendly interface and extensive software library.\n\n  - **IBM PC**: Released in 1981, the IBM PC set the standard for personal computers, establishing the platform that many modern PCs are based on.\n\n- **Impact**: Personal computers transformed how people work, communicate, and entertain themselves, leading to the digital revolution and the rise of the information age.\n\n#### **Advancements in Storage (Floppy Disks, Hard Drives)**\n\n**Floppy Disks**:\n- **Introduction**: Floppy disks were introduced in the 1970s as a portable, removable storage medium for personal computers.\n\n- **Functionality**: They provided a convenient way to store and transfer data between computers, with capacities ranging from 80 KB to 1.44 MB.\n\n- **Impact**: Floppy disks became a standard for data storage and software distribution, widely used until the rise of CD-ROMs and USB drives in the late 1990s.\n\n**Hard Drives**:\n- **Introduction**: Hard drives were developed in the 1950s but became more widespread and affordable in the 1970s and 1980s as personal computers became popular.\n\n- **Functionality**: Hard drives offer large, non-volatile storage capacity, enabling the storage of operating systems, applications, and user data.\n\n- **Impact**: The increase in hard drive capacity and reliability contributed to the growth of personal computing by allowing users to store more data locally.\n\n### 2.6 **Fifth Generation (Present and Future)**\n\n#### **Artificial Intelligence and Quantum Computing**\n\n**Artificial Intelligence (AI)**:\n- **Introduction**: AI refers to the simulation of human intelligence in machines that can learn, reason, and make decisions. It encompasses machine learning, natural language processing, computer vision, and robotics.\n\n- **Applications**: AI is used in various fields, including autonomous vehicles, medical diagnostics, financial analysis, and personal assistants like Siri and Alexa.\n\n- **Impact**: AI is transforming industries by automating complex tasks, enhancing decision-making, and creating new products and services. It represents a major frontier in the evolution of computing.\n\n**Quantum Computing**:\n- **Introduction**: Quantum computing is an emerging field that uses the principles of quantum mechanics to perform calculations that would be impossible or infeasible for classical computers.\n\n- **Functionality**: Quantum computers use qubits, which can represent both 0 and 1 simultaneously, allowing them to process a vast amount of data in parallel.\n\n- **Potential**: Quantum computing has the potential to revolutionize fields like cryptography, materials science, and complex system modeling, offering exponential speedups for certain types of problems.\n\n#### **Current Trends: Cloud Computing, IoT, and 5G Technology**\n\n**Cloud Computing**:\n- **Introduction**: Cloud computing refers to the delivery of computing services—such as storage, processing, and software—over the internet (\"the cloud\").\n\n- **Impact**: Cloud computing has revolutionized how businesses and individuals use technology, providing scalable resources, reducing costs, and enabling remote work and collaboration.\n\n**Internet of Things (IoT)**:\n- **Introduction**: IoT describes a network of interconnected devices that communicate and exchange data over the internet. These devices range from smart home gadgets to industrial sensors.\n\n- **Impact**: IoT is creating new opportunities in automation, smart cities, healthcare, and more, by enabling real-time data collection and analysis.\n\n**5G Technology**:\n\n- **Introduction**: 5G is the fifth generation of wireless technology, offering significantly faster speeds, lower latency, and greater connectivity than previous generations.\n\n- **Impact**: 5G is expected to enable new applications like autonomous vehicles, smart infrastructure, and advanced IoT networks, driving the next wave of innovation in mobile and internet technologies.\n\n\n---\n",
+  "videoLink": "https://www.youtube.com/embed/gjVX47dLlN8?si=73g_vRw6ulUTSFS8",
+  "referenceLink": "https://en.wikipedia.org/wiki/OSI_model",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168b"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Basic Operating System Concepts",
+  "name": "What is OS",
+  "introduction": "An introduction to operating systems, their functions, and types.",
+  "videoLink": "https://www.youtube.com/embed/26QPDBe-NB8?si=2SoGdFpo5huANH0p",
+  "referenceLink": "https://en.wikipedia.org/wiki/Operating_system",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168c"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Usage of Linux in Cybersecurity",
+  "name": "Why the Linux OS is Used in Cybersecurity",
+  "introduction": "Exploring the reasons why Linux is preferred in cybersecurity, including tool availability.",
+  "videoLink": "https://www.youtube.com/embed/ZLh1TqF0GbQ?si=E4tsg5eOOq5a2Pa6",
+  "referenceLink": "https://en.wikipedia.org/wiki/Linux",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168d"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Introduction to Cyber Security",
+  "name": "What is Cybersecurity?",
+  "introduction": "A comprehensive overview of cybersecurity, its importance, and key terminologies.",
+  "videoLink": "https://www.youtube.com/embed/ZnhF-xnwwD8?si=S3azrGeNiUrXWdp9",
+  "referenceLink": "https://en.wikipedia.org/wiki/Cybersecurity",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168e"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Cyber Hygiene and Best Practices",
+  "name": "Cookies and Sessions",
+  "introduction": "Learn About Cookies and Sessions...",
+  "videoLink": "https://www.youtube.com/embed/44R9ono-jgE?si=7vUZ3E9k0dsgF2IA",
+  "referenceLink": "https://en.wikipedia.org/wiki/Password_manager",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece53168f"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Fundamentals of Cryptography",
+  "name": "Basic Encryption and Decryption",
+  "introduction": "Understanding the basics of encryption and decryption processes in cryptography.",
+  "videoLink": "https://www.youtube.com/watch?v=example7",
+  "referenceLink": "https://en.wikipedia.org/wiki/Encryption",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531690"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Network Security",
+  "name": "Firewalls and IDS/IPS",
+  "introduction": "An introduction to firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS).",
+  "videoLink": "https://www.youtube.com/watch?v=example8",
+  "referenceLink": "https://en.wikipedia.org/wiki/Firewall_(computing)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531691"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Network Security",
+  "name": "Advanced Threat Detection and Prevention",
+  "introduction": "Exploring advanced techniques for detecting and preventing cyber threats.",
+  "videoLink": "https://www.youtube.com/watch?v=example9",
+  "referenceLink": "https://en.wikipedia.org/wiki/Intrusion_detection_system",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531692"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Cryptography",
+  "name": "Cryptographic Protocols (TLS/SSL, SSH)",
+  "introduction": "An in-depth look at cryptographic protocols like TLS/SSL and SSH.",
+  "videoLink": "https://www.youtube.com/watch?v=example10",
+  "referenceLink": "https://en.wikipedia.org/wiki/Transport_Layer_Security",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531693"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Penetration Testing",
+  "name": "Red Teaming and Blue Teaming",
+  "introduction": "Understanding the roles and strategies of red teaming and blue teaming in penetration testing.",
+  "videoLink": "https://www.youtube.com/watch?v=example11",
+  "referenceLink": "https://en.wikipedia.org/wiki/Red_team",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c33fadd5e943eece531694"
+  },
+  "category": "Advanced",
+  "subCategory": "Malware Analysis and Reverse Engineering",
+  "name": "Static and Dynamic Analysis",
+  "introduction": "Techniques for analyzing malware through static and dynamic analysis methods.",
+  "videoLink": "https://www.youtube.com/watch?v=example12",
+  "referenceLink": "https://en.wikipedia.org/wiki/Malware_analysis",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb79"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Computer Fundamentals",
+  "name": "Evolution of Computers",
+  "introduction": "An overview of the evolution of computers from early mechanical devices to modern computing systems.",
+  "videoLink": "https://www.youtube.com/watch?v=example1",
+  "referenceLink": "https://en.wikipedia.org/wiki/History_of_computing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7a"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Basic Computer Networks",
+  "name": "OSI Layers of Networking",
+  "introduction": "Understanding the OSI model and its seven layers in networking.",
+  "videoLink": "https://www.youtube.com/watch?v=example2",
+  "referenceLink": "https://en.wikipedia.org/wiki/OSI_model",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7b"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Basic Operating System Concepts",
+  "name": "What is OS",
+  "introduction": "An introduction to operating systems, their functions, and types.",
+  "videoLink": "https://www.youtube.com/watch?v=example3",
+  "referenceLink": "https://en.wikipedia.org/wiki/Operating_system",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7c"
+  },
+  "category": "Fundamentals",
+  "subCategory": "Usage of Linux in Cybersecurity",
+  "name": "Why the Linux OS is Used in Cybersecurity",
+  "introduction": "Exploring the reasons why Linux is preferred in cybersecurity, including tool availability.",
+  "videoLink": "https://www.youtube.com/watch?v=example4",
+  "referenceLink": "https://en.wikipedia.org/wiki/Linux",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7d"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Introduction to Cyber Security",
+  "name": "What is Cybersecurity?",
+  "introduction": "A comprehensive overview of cybersecurity, its importance, and key terminologies.",
+  "videoLink": "https://www.youtube.com/watch?v=example5",
+  "referenceLink": "https://en.wikipedia.org/wiki/Cybersecurity",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7e"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Cyber Hygiene and Best Practices",
+  "name": "Strong Passwords and Password Managers",
+  "introduction": "Best practices for creating strong passwords and using password managers for security.",
+  "videoLink": "https://www.youtube.com/watch?v=example6",
+  "referenceLink": "https://en.wikipedia.org/wiki/Password_manager",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb7f"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Fundamentals of Cryptography",
+  "name": "Basic Encryption and Decryption",
+  "introduction": "Understanding the basics of encryption and decryption processes in cryptography.",
+  "videoLink": "https://www.youtube.com/watch?v=example7",
+  "referenceLink": "https://en.wikipedia.org/wiki/Encryption",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb80"
+  },
+  "category": "Basics of Cybersecurity",
+  "subCategory": "Network Security",
+  "name": "Firewalls and IDS/IPS",
+  "introduction": "An introduction to firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS).",
+  "videoLink": "https://www.youtube.com/watch?v=example8",
+  "referenceLink": "https://en.wikipedia.org/wiki/Firewall_(computing)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb81"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Network Security",
+  "name": "Advanced Threat Detection and Prevention",
+  "introduction": "Exploring advanced techniques for detecting and preventing cyber threats.",
+  "videoLink": "https://www.youtube.com/watch?v=example9",
+  "referenceLink": "https://en.wikipedia.org/wiki/Intrusion_detection_system",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb82"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Cryptography",
+  "name": "Cryptographic Protocols (TLS/SSL, SSH)",
+  "introduction": "An in-depth look at cryptographic protocols like TLS/SSL and SSH.",
+  "videoLink": "https://www.youtube.com/watch?v=example10",
+  "referenceLink": "https://en.wikipedia.org/wiki/Transport_Layer_Security",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb83"
+  },
+  "category": "Advanced",
+  "subCategory": "Advanced Penetration Testing",
+  "name": "Red Teaming and Blue Teaming",
+  "introduction": "Understanding the roles and strategies of red teaming and blue teaming in penetration testing.",
+  "videoLink": "https://www.youtube.com/watch?v=example11",
+  "referenceLink": "https://en.wikipedia.org/wiki/Red_team",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c34072ac471a85aa32bb84"
+  },
+  "category": "Advanced",
+  "subCategory": "Malware Analysis and Reverse Engineering",
+  "name": "Static and Dynamic Analysis",
+  "introduction": "Techniques for analyzing malware through static and dynamic analysis methods.",
+  "videoLink": "https://www.youtube.com/watch?v=example12",
+  "referenceLink": "https://en.wikipedia.org/wiki/Malware_analysis",
+  "__v": 0
+}]
